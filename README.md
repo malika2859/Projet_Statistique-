@@ -54,4 +54,5 @@ jupyter notebook PROJET_STATISTIQUE_Malika_Sidibé.ipynb
 📢 Contact
 👤 Auteur : Malika Sidibé
 📧 Email : [sidibemalika@outlook.com]
+
 💼 GitHub : malika2859
