@@ -52,10 +52,10 @@ Copier
 Modifier
 jupyter notebook PROJET_STATISTIQUE_Malika_Sidibé.ipynb
 
-📢 Contact
+📢 Contact ( voir mon  émail ) 
 
 👤 Auteur : Malika Sidibé
 
-📧 Email : [sidibemalika@outlook.com]
+📧 Email : sidibemalika@outlook.com
 
 💼 GitHub : malika2859
